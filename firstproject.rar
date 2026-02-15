@@ -1,3 +1,0 @@
-Created a Django project, modified settings.py, and added a new app.
-Wrote a simple view in the app to return “Hello, World!” using HttpResponse.
-Connected the app’s URLs to the project and ran the server to display it in the browser.
